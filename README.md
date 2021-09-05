@@ -7,7 +7,7 @@ decrement by 1. The buttons use the dispatcher. If you want to see the states, y
 creating a store with them and incorporating the app in the Provider.
 
 # Details
- --This is based on the following <https://www.youtube.com/watch?v=CVpUuw9XSjY&list=PLDyQo7g0_nsVHmyZZpVJyFn5ojlboVEhE&index=6">
+ --This is based on the following <a href="https://www.youtube.com/watch?v=CVpUuw9XSjY&list=PLDyQo7g0_nsVHmyZZpVJyFn5ojlboVEhE&index=6">
                     tutorial
  </a> 
  
